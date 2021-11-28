@@ -1,0 +1,12 @@
+{
+   "config":{
+      "IMAGE_WIDGHT":128,
+      "IMAGE_HEIGHT": 128,
+      "CHANEL" :3,
+      "EPOCH":10000,
+      "LEARNING_RATE": 0.0015,
+      "PATH_FODER_DATA":"E:\\Logistic regression\\data\\training_set\\data_train",
+	  "PATH_FILE_LABEL":"E:\\Logistic regression\\label.json",
+	  "PATH_FODER_IMAGE_TEST":"E:\\Logistic regression\\data\\test_set\\dogs"
+	}
+}
